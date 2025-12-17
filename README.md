@@ -37,6 +37,7 @@ This project helped me understand how real web apps fetch and display external d
 ---
 
 ## 👤 Author
+
 **Divyanshu Gairwal**
 
 - GitHub: https://github.com/DivyanshuGairwal  
