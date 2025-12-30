@@ -14,7 +14,7 @@ Built to explore UI design, API integration, and responsive layouts.
 ## 🛠 Tech Stack
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript   
 - Google Books API  
 
 
