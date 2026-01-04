@@ -15,7 +15,7 @@ Built to explore UI design, API integration, and responsive layouts.
 - HTML5  
 - CSS3  
 - JavaScript   
-- Google Books API  
+- Google Books API   
 
 
 
